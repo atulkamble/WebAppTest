@@ -1,0 +1,15 @@
+D:\Github\WebAppTest\bin\Debug\net7.0\WebAppTest.exe
+D:\Github\WebAppTest\bin\Debug\net7.0\WebAppTest.deps.json
+D:\Github\WebAppTest\bin\Debug\net7.0\WebAppTest.runtimeconfig.json
+D:\Github\WebAppTest\bin\Debug\net7.0\WebAppTest.dll
+D:\Github\WebAppTest\bin\Debug\net7.0\WebAppTest.pdb
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.csproj.AssemblyReference.cache
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.AssemblyInfoInputs.cache
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.AssemblyInfo.cs
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.csproj.CoreCompileInputs.cache
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.dll
+D:\Github\WebAppTest\obj\Debug\net7.0\refint\WebAppTest.dll
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.pdb
+D:\Github\WebAppTest\obj\Debug\net7.0\WebAppTest.genruntimeconfig.cache
+D:\Github\WebAppTest\obj\Debug\net7.0\ref\WebAppTest.dll
