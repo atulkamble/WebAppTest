@@ -1,0 +1,5 @@
+D:\Github\WebAppTest\obj\Release\net7.0\WebAppTest.csproj.AssemblyReference.cache
+D:\Github\WebAppTest\obj\Release\net7.0\WebAppTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\WebAppTest\obj\Release\net7.0\WebAppTest.AssemblyInfoInputs.cache
+D:\Github\WebAppTest\obj\Release\net7.0\WebAppTest.AssemblyInfo.cs
+D:\Github\WebAppTest\obj\Release\net7.0\WebAppTest.csproj.CoreCompileInputs.cache
